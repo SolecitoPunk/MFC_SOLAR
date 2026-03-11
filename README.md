@@ -1,2 +1,2 @@
-# MFC_SOLAR
-# MFC_SOLAR
+Hola! aquí encontraras los diferentes proyectos realizados desde el curso de modelamiento Físico computacional
+
